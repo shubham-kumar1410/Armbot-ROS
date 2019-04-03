@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: armbot_gazebo
+    relative_path: armbot.urdf
+  SRDF:
+    relative_path: config/armbot.srdf
+  CONFIG:
+    author_name: Shubham Kumar
+    author_email: shubhamkmr1410@gmail.com
+    generated_timestamp: 1510574856
